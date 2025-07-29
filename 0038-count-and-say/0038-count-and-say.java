@@ -1,29 +1,33 @@
 class Solution {
     public String countAndSay(int n) {
+        String count = "1";
         int i = 1;
-        String sb ="1";
-        while(i<n){
-            sb = convert(sb);
+        while(i<n)
+        {
+            count = convert(count);
             i++;
         }
-        return sb;
+        return count;
     }
-    public String convert(String sb){
-        String s ="";
-        int count = 1;
+    public String convert(String s)
+    {
+        String str = "";
         int left = 0;
         int right = 1;
-        while(left <sb.length()){
-            while(right<sb.length() && sb.charAt(left)==sb.charAt(right)){
+        int c = 1;
+        while(left < s.length())
+        {
+            while(right < s.length() && s.charAt(left) == s.charAt(right))
+            {
                 right++;
-            
-                count++;
+                c++;
             }
-            s+=count+""+sb.charAt(left);
+            str += ""+c+s.charAt(left);
             left = right;
             right++;
-            count = 1;
+            c = 1;
         }
-        return s;
+
+        return str;
     }
 }
