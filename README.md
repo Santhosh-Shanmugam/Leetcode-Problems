@@ -25,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0443-string-compression) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+## Sliding Window
+|  |
+| ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
