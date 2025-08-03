@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [1670-patients-with-a-condition](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
