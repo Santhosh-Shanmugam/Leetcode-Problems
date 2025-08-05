@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [1670-patients-with-a-condition](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 ## Stack
 |  |
