@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
+| [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
