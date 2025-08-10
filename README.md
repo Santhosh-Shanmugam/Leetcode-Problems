@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1791-richest-customer-wealth](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [1791-richest-customer-wealth](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Segment Tree
 |  |
 | ------- |
