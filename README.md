@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
