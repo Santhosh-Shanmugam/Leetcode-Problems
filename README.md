@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0504-base-7) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Matrix
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
