@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
