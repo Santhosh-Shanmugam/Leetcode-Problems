@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0504-base-7) |
+| [0593-valid-square](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0593-valid-square) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2714-left-and-right-sum-differences](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
