@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
+| [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [0953-reverse-only-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0961-long-pressed-name) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0504-base-7) |
 | [0593-valid-square](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0593-valid-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0593-valid-square) |
+## Enumeration
+|  |
+| ------- |
+| [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 <!---LeetCode Topics End-->
