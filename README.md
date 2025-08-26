@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
