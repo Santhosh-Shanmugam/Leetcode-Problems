@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
