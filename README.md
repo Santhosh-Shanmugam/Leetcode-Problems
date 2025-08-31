@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0742-to-lower-case) |
