@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
