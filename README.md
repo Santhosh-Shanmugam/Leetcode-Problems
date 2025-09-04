@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Math
 |  |
 | ------- |
