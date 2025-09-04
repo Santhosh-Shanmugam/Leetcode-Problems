@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3830-find-closest-person](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
