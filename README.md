@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0724-find-pivot-index](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
