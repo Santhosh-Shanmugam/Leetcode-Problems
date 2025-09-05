@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
