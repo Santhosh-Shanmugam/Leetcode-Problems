@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0500-keyboard-row) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0342-power-of-four) |
