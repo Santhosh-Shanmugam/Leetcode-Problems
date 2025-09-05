@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
