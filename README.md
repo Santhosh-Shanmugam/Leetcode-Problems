@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
