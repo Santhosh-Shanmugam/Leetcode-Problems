@@ -317,4 +317,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
