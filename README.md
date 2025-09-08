@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
