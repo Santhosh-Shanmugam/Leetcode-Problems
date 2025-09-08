@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
+| [2887-sort-vowels-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
