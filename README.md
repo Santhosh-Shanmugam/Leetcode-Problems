@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1764-maximum-repeating-substring](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting Sort
 |  |
