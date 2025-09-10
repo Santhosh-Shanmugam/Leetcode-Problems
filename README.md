@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting Sort
