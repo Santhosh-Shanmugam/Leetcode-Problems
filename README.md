@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3684-substring-matching-pattern](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3684-substring-matching-pattern) |
 ## Counting Sort
 |  |
 | ------- |
