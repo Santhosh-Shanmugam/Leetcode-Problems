@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3221-find-the-peaks](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3221-find-the-peaks](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 ## Linked List
 |  |
 | ------- |
