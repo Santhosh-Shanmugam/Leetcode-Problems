@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3684-substring-matching-pattern](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
