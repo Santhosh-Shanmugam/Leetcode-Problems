@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
