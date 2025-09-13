@@ -1,32 +1,19 @@
 class Solution {
-    public boolean isCheck(char c){
-        return "aeiou".contains(c+"");
-    }
-    public int isSum(HashMap<Character,Integer> map)
+    public boolean isCheck(char c)
     {
-        int max = 0;
-        for(char c : map.keySet())
-        {
-            max = Math.max(max, map.get(c));
-        }
-        return max;
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
     public int maxFreqSum(String s) {
-        char[] alpha = s.toCharArray();
-        HashMap<Character,Integer> vowel = new HashMap<>();
-        HashMap<Character,Integer> consonants = new HashMap<>();
-        for(char c : alpha)
+        int[] freq = new int[26];
+        int vowelmax = 0;
+        int consonantmax = 0;
+        for(char c : s.toCharArray())
         {
-            if(isCheck(c))
-            {
-                vowel.put(c,vowel.getOrDefault(c,0)+1);
-            }
-            else{
-                consonants.put(c,consonants.getOrDefault(c,0)+1);
-            }
+            freq[c-'a']++;
+            if(isCheck(c)) vowelmax = Math.max(vowelmax,freq[c-'a']);
+            else consonantmax = Math.max(consonantmax , freq[c-'a']);
         }
-        int mostfreq = isSum(vowel) + isSum(consonants);
 
-        return mostfreq;
+        return vowelmax+consonantmax;
     }
 }
