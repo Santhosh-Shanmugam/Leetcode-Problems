@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0961-long-pressed-name) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
