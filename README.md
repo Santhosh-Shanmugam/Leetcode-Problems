@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
+| [2386-min-max-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [2386-min-max-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3226-minimum-number-game) |
