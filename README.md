@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0889-buddy-strings) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [0953-reverse-only-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0961-long-pressed-name) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
