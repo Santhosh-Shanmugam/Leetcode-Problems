@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
