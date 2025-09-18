@@ -1,23 +1,18 @@
 class Solution {
     public int triangularSum(int[] nums) {
-        List<List<Integer>> sum = new ArrayList<>();
-        List<Integer> arr = new ArrayList<>();
-        for(int num : nums) arr.add(num);
-        sum.add(arr);
-        int i=1;
-        while(sum.get(i-1).size() != 1)
+        List<Integer> sum = new ArrayList<>();
+        for(int n : nums) sum.add(n);
+
+        while(sum.size() > 1)
         {
-            List<Integer> tri = new ArrayList<>();
-            int n = sum.get(i-1).size();
-            List<Integer> prev = sum.get(i-1);
-            for(int j=1;j<n;j++)
+            List<Integer> arr = new ArrayList<>();
+            for(int i=1;i<sum.size();i++)
             {
-                int parse = (prev.get(j-1)+prev.get(j)) % 10;
-                tri.add(parse);
+                int parse = (sum.get(i-1)+sum.get(i))%10;
+                arr.add(parse);
             }
-            sum.add(tri);
-            i++;
+            sum = arr;
         }
-        return sum.get(i-1).get(0);
+        return sum.get(0);
     }
 }
