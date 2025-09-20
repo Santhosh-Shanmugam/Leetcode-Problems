@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
