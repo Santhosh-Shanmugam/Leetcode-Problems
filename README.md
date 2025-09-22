@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3221-find-the-peaks](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
