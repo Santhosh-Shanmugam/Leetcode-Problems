@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1179-game-play-analysis-i) |
 | [1670-patients-with-a-condition](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
