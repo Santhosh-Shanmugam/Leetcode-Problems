@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0942-super-palindromes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0942-super-palindromes) |
 | [0953-reverse-only-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0961-long-pressed-name) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
