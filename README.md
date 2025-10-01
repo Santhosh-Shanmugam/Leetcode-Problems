@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1635-number-of-good-pairs](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
