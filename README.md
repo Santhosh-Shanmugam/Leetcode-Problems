@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3221-find-the-peaks](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Monotonic Stack
