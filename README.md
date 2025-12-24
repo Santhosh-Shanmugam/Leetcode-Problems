@@ -402,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0975-range-sum-of-bst](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Game Theory
 |  |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
