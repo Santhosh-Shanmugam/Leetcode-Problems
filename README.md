@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1764-maximum-repeating-substring) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
