@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Santhosh-Shanmugam/Leetcode-Problems/tree/master/0326-power-of-three) |
